@@ -1,0 +1,1995 @@
+[gd_resource type="JSON" format=3 uid="uid://dir4tu8segcsm"]
+
+[resource]
+data = {
+    "wizard": {
+      "brick": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "spoon": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "ball": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "broken_sword": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "metal_shard": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "purple_potion": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "spellbook": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "bell": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "amulet": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "scroll": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "treasure_chest": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "compass": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "banana": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "fake_mustache": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "hero_certificate": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "mysterious_button": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "left_boot": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "wooden_duck": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "portrait": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "tax_document": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "tiny_ladder": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ],
+      "giant_key": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытный предмет."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Не этого я ожидал."
+        },
+        {
+          "emotion": "smile",
+          "text": "Возможно, в этом есть скрытый потенциал."
+        },
+        {
+          "emotion": "angry",
+          "text": "Это начинает походить на издевательство."
+        }
+      ]
+    },
+    "elephant_paladin": {
+      "brick": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "spoon": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "ball": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "broken_sword": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "metal_shard": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "purple_potion": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "spellbook": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "bell": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "amulet": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "scroll": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "treasure_chest": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "compass": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "banana": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "fake_mustache": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "hero_certificate": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "mysterious_button": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "left_boot": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "wooden_duck": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "portrait": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "tax_document": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "tiny_ladder": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ],
+      "giant_key": [
+        {
+          "emotion": "smile",
+          "text": "Спасибо, это может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Интересный выбор."
+        },
+        {
+          "emotion": "smile",
+          "text": "Попробую использовать это во благо."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я стараюсь не судить поспешно, но это странно."
+        }
+      ]
+    },
+    "knight_girl": {
+      "brick": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "spoon": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "ball": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "broken_sword": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "metal_shard": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "purple_potion": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "spellbook": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "bell": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "amulet": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "scroll": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "treasure_chest": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "compass": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "banana": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "fake_mustache": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "hero_certificate": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "mysterious_button": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "left_boot": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "wooden_duck": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "portrait": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "tax_document": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "tiny_ladder": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ],
+      "giant_key": [
+        {
+          "emotion": "shocked",
+          "text": "О! Неожиданно."
+        },
+        {
+          "emotion": "smile",
+          "text": "Ладно, попробуем."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Уверена, применение найдётся."
+        },
+        {
+          "emotion": "angry",
+          "text": "Надеюсь, это часть какого-то плана."
+        }
+      ]
+    },
+    "elf_archer": {
+      "brick": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "spoon": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "ball": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "broken_sword": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "metal_shard": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "purple_potion": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "spellbook": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "bell": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "amulet": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "scroll": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "treasure_chest": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "compass": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "banana": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "fake_mustache": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "hero_certificate": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "mysterious_button": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "left_boot": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "wooden_duck": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "portrait": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "tax_document": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "tiny_ladder": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ],
+      "giant_key": [
+        {
+          "emotion": "neutral",
+          "text": "Любопытно."
+        },
+        {
+          "emotion": "smile",
+          "text": "В дороге всё может пригодиться."
+        },
+        {
+          "emotion": "neutral",
+          "text": "Запомню этот выбор."
+        },
+        {
+          "emotion": "angry",
+          "text": "Я начинаю сомневаться в этом решении."
+        }
+      ]
+    },
+    "femboy_thief": {
+      "brick": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "spoon": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "ball": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "broken_sword": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "metal_shard": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "purple_potion": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "spellbook": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "bell": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "amulet": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "scroll": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "treasure_chest": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "compass": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "banana": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "fake_mustache": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "hero_certificate": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "mysterious_button": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "left_boot": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "wooden_duck": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "portrait": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "tax_document": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "tiny_ladder": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ],
+      "giant_key": [
+        {
+          "emotion": "smile",
+          "text": "О, мне нравится."
+        },
+        {
+          "emotion": "shocked",
+          "text": "Уже появились идеи."
+        },
+        {
+          "emotion": "smile",
+          "text": "Это может быть очень полезно. Или очень смешно."
+        },
+        {
+          "emotion": "angry",
+          "text": "Ладно, даже у меня есть стандарты."
+        }
+      ]
+    }
+}
