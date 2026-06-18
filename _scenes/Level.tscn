@@ -1,3 +1,30 @@
 [gd_scene format=3 uid="uid://dxkovnx5yjnjp"]
 
+[ext_resource type="Texture2D" uid="uid://t5ilxxkqd7yj" path="res://_art/Shop.png" id="1_1bg7i"]
+[ext_resource type="Texture2D" uid="uid://c86o7v8y7ixnn" path="res://_art/DIALOG_01.png" id="2_2v4i3"]
+
 [node name="Level" type="Node2D" unique_id=1854469353]
+
+[node name="backGround" type="Sprite2D" parent="." unique_id=375912922]
+position = Vector2(961.00006, 488)
+scale = Vector2(0.65, 0.65)
+texture = ExtResource("1_1bg7i")
+
+[node name="Take_Zone" type="Area2D" parent="." unique_id=2095984053]
+position = Vector2(-2091, -117)
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Take_Zone" unique_id=1947176458]
+
+[node name="Results" type="Area2D" parent="." unique_id=509304551]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Results" unique_id=1618059378]
+
+[node name="Sprite2D" type="Sprite2D" parent="Results" unique_id=599247911]
+position = Vector2(960, 319)
+texture = ExtResource("2_2v4i3")
+
+[node name="Dialogs" type="Area2D" parent="." unique_id=800335914]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="Dialogs" unique_id=1903637734]
+
+[node name="Sprite2D" type="Sprite2D" parent="Dialogs" unique_id=1984269978]

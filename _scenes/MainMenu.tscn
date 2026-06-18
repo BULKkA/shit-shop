@@ -15,10 +15,23 @@ size_flags_vertical = 3
 script = ExtResource("1_6p4f7")
 metadata/_edit_use_anchors_ = true
 
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=504183272]
-position = Vector2(981, 524)
-scale = Vector2(0.6438802, 0.5673828)
+[node name="TextureRect" type="TextureRect" parent="." unique_id=195432462]
+layout_mode = 1
+anchors_preset = -1
+anchor_left = -0.31302083
+anchor_top = -0.5694444
+anchor_right = 1.326979
+anchor_bottom = 1.5594444
+offset_left = 576.0
+offset_top = 484.0
+offset_right = 499.20007
+offset_bottom = 232.80005
+grow_horizontal = 2
+grow_vertical = 2
+scale = Vector2(0.65, 0.65)
 texture = ExtResource("1_635cf")
+stretch_mode = 2
+metadata/_edit_use_anchors_ = true
 
 [node name="CenterContainer" type="CenterContainer" parent="." unique_id=1956697537]
 layout_mode = 1
@@ -27,6 +40,10 @@ anchor_left = 0.5
 anchor_top = 0.5
 anchor_right = 0.5
 anchor_bottom = 0.5
+offset_left = -1536.0
+offset_top = -1024.0
+offset_right = 1536.0
+offset_bottom = 1024.0
 grow_horizontal = 2
 grow_vertical = 2
 
