@@ -15,6 +15,14 @@ run/main_scene="uid://dgryllkkuys0"
 config/features=PackedStringArray("4.6", "GL Compatibility")
 config/icon="res://icon.svg"
 
+[autoload]
+
+AudioManager="*uid://d4f4vfgiq5m7s"
+Basic="*uid://hg4is235ycyd"
+Settings="*uid://cou3cw7si2ip3"
+Signals="*uid://uqt2xes3855w"
+GlobalVar="*uid://b6n8ci2nlcdxd"
+
 [display]
 
 window/size/viewport_width=1920
