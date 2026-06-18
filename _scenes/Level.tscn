@@ -16,6 +16,7 @@ position = Vector2(-2091, -117)
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Take_Zone" unique_id=1947176458]
 
 [node name="Results" type="Area2D" parent="." unique_id=509304551]
+visible = false
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Results" unique_id=1618059378]
 
@@ -28,3 +29,9 @@ texture = ExtResource("2_2v4i3")
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Dialogs" unique_id=1903637734]
 
 [node name="Sprite2D" type="Sprite2D" parent="Dialogs" unique_id=1984269978]
+
+[node name="Control" type="Control" parent="." unique_id=2145413197]
+layout_mode = 3
+anchors_preset = 0
+offset_right = 40.0
+offset_bottom = 40.0
