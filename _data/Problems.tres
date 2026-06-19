@@ -1,8 +1,7 @@
 [gd_resource type="JSON" format=3 uid="uid://ckhoafhmu4k18"]
 
 [resource]
-data = {
-"problems": [
+data = [
 {
 "id": "ancient_ruins",
 "name": "Древние руины",
@@ -104,5 +103,4 @@ data = {
 "description": "Персонаж пытается произвести впечатление или наладить отношения."
 }
 ]
-}
 

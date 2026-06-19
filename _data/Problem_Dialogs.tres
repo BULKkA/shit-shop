@@ -1,5 +1,7 @@
-{
-  "problem_dialog": {
+[gd_resource type="JSON" format=3 uid="uid://dr6qiood8tyy4"]
+
+[resource]
+data = {
     "wizard": {
       "ancient_ruins": [
         {
@@ -1011,4 +1013,3 @@
       ]
     }
   }
-}
