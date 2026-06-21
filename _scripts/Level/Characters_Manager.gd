@@ -1,11 +1,21 @@
 extends Node
 
+var character_list: Array
+var charecter_index: int = 0
+var max_index: int
 
-# Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	pass # Replace with function body.
+	Signals.LoadCharacters.connect(LoadCharacters)
+	Signals.NextCharacter.connect(NextCharacter)
 
+func LoadCharacters(Character_list):
+	character_list = Character_list
+	max_index = character_list.size() - 1
+	Signals.Start_Dialog.emit(character_list[charecter_index])
 
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+func NextCharacter():
+	charecter_index += 1
+	if charecter_index <= max_index:
+		Signals.Start_Dialog.emit(character_list[charecter_index])
+	else:
+		Signals.End_Day.emit()

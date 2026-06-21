@@ -798,7 +798,7 @@ data = {
         }
       ]
     },
-    "knight_girl": {
+    "guard": {
       "brick": [
         {
           "emotion": "shocked",
@@ -1196,7 +1196,7 @@ data = {
         }
       ]
     },
-    "elf_archer": {
+    "elf": {
       "brick": [
         {
           "emotion": "neutral",
@@ -1594,7 +1594,7 @@ data = {
         }
       ]
     },
-    "femboy_thief": {
+    "roge": {
       "brick": [
         {
           "emotion": "smile",

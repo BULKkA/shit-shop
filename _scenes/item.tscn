@@ -1,0 +1,14 @@
+[gd_scene format=3 uid="uid://m1o8swfpjgsi"]
+
+[ext_resource type="Texture2D" uid="uid://fdtmkyx8hysf" path="res://_art/Items/amulet.png" id="1_vgr7o"]
+[ext_resource type="Script" uid="uid://mo2aes3in7gq" path="res://_scripts/Level/item.gd" id="2_70nai"]
+
+[node name="Item" type="TextureRect" unique_id=1720467772]
+offset_right = 500.0
+offset_bottom = 300.0
+pivot_offset = Vector2(250, 150)
+offset_transform_enabled = true
+offset_transform_scale = Vector2(0.6, 0.6)
+mouse_filter = 0
+texture = ExtResource("1_vgr7o")
+script = ExtResource("2_70nai")

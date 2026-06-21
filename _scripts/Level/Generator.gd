@@ -1,14 +1,20 @@
 extends Node
 
-var characterStoryList: Array = []
-var characterStoryIndex: int = 0
+var characterStoryList: Array 	= []
+var itemsStoryList: Array 		= []
 
-
-# Called when the node enters the scene tree for the first time.
 func _ready() -> void:
-	pass # Replace with function body.
-
-
-# Called every frame. 'delta' is the elapsed time since the previous frame.
-func _process(delta: float) -> void:
-	pass
+	var charactersData = GlobalVar.CharactersData
+	var itemsData      = GlobalVar.ItemsData
+	
+	while characterStoryList.size() != 4:
+		var random_character = charactersData[randi_range(0, GlobalVar.CharactersData.size() - 1)]
+		characterStoryList.append(random_character.id)
+		charactersData.erase(random_character)
+	while itemsStoryList.size() != 4:
+		var random_item = itemsData[randi_range(0, GlobalVar.ItemsData.size() - 1)]
+		itemsStoryList.append(random_item.id)
+		itemsData.erase(random_item)
+	
+	Signals.LoadItemField.emit(itemsStoryList)
+	Signals.LoadCharacters.emit(characterStoryList)

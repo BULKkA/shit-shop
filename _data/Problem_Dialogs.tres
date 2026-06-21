@@ -406,7 +406,7 @@ data = {
         }
       ]
     },
-    "knight_girl": {
+    "guard": {
       "ancient_ruins": [
         {
           "emotion": "smile",
@@ -608,7 +608,7 @@ data = {
         }
       ]
     },
-    "elf_archer": {
+    "elf": {
       "ancient_ruins": [
         {
           "emotion": "neutral",
@@ -810,7 +810,7 @@ data = {
         }
       ]
     },
-    "femboy_thief": {
+    "roge": {
       "ancient_ruins": [
         {
           "emotion": "smile",
