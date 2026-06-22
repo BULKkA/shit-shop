@@ -22,13 +22,9 @@ func _get_drag_data(at_position: Vector2) -> Variant:
 	preview.expand_mode = TextureRect.EXPAND_IGNORE_SIZE
 	preview.stretch_mode = TextureRect.STRETCH_KEEP_ASPECT_CENTERED
 	preview.position = -preview_size / 2.0
-
 	root.add_child(preview)
-
 	set_drag_preview(root)
-	
 	visible = false
-
 	return {
 		"item_id": item_id
 	}

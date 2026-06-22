@@ -41,4 +41,8 @@ func play_sfx(stream: AudioStream):
 	sfx_players[0].play()
 
 func Play_Sound(Type, Name):
-	pass
+	var sound = Sounds.soundByName("Theme_" + Name)
+	if Type == Sounds.Type.Music:
+		play_music(sound)
+	else:
+		play_sfx(sound)

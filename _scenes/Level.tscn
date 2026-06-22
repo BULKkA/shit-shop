@@ -26,6 +26,7 @@
 [ext_resource type="Script" uid="uid://c7ordl3nc52hd" path="res://_scripts/Level/item_field.gd" id="24_eo4br"]
 [ext_resource type="Script" uid="uid://0i1oewbpekyv" path="res://_scripts/Level/Generator.gd" id="25_b5uqe"]
 [ext_resource type="Script" uid="uid://bedr5fb2rjd6g" path="res://_scripts/Level/dialogs.gd" id="25_xvbbh"]
+[ext_resource type="Texture2D" uid="uid://c86o7v8y7ixnn" path="res://_art/DIALOG_01.png" id="26_rqumo"]
 [ext_resource type="Script" uid="uid://dt472dychsqgp" path="res://_scripts/Level/Characters_Manager.gd" id="27_xvbbh"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1ibri"]
@@ -273,6 +274,10 @@ animations = [{
 
 [sub_resource type="Theme" id="Theme_vgr7o"]
 
+[sub_resource type="LabelSettings" id="LabelSettings_niura"]
+font_size = 18
+font_color = Color(0.16862746, 0.12941177, 0.09411765, 1)
+
 [node name="Level" type="Control" unique_id=1729900135]
 layout_mode = 3
 anchors_preset = 15
@@ -293,6 +298,9 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+offset_transform_enabled = true
+offset_transform_position = Vector2(-80, 0)
+mouse_filter = 2
 
 [node name="Character" type="Panel" parent="CenterBox" unique_id=79660335]
 custom_minimum_size = Vector2(800, 500)
@@ -302,10 +310,10 @@ script = ExtResource("2_ayqgg")
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CenterBox/Character" unique_id=355020206]
 position = Vector2(403, 45)
 sprite_frames = SubResource("SpriteFrames_oocco")
-animation = &"guard_smile"
+animation = &"elephant_paladin_neutral"
 
-[node name="front" type="Sprite2D" parent="CenterBox/Character" unique_id=1737512545]
-position = Vector2(401.00006, 198.00003)
+[node name="front" type="Sprite2D" parent="." unique_id=1737512545]
+position = Vector2(961.00006, 488.00003)
 scale = Vector2(0.65, 0.65)
 texture = ExtResource("23_56o8g")
 
@@ -322,6 +330,7 @@ anchor_right = 1.0
 anchor_bottom = 1.0
 grow_horizontal = 2
 grow_vertical = 2
+mouse_filter = 2
 script = ExtResource("24_eo4br")
 
 [node name="Panel" type="Panel" parent="ItemField" unique_id=414811698]
@@ -359,7 +368,7 @@ grow_horizontal = 0
 grow_vertical = 2
 
 [node name="Dialogs" type="Panel" parent="RightBox" unique_id=296972591]
-custom_minimum_size = Vector2(600, 400)
+custom_minimum_size = Vector2(700, 300)
 layout_mode = 2
 offset_transform_enabled = true
 script = ExtResource("25_xvbbh")
@@ -369,21 +378,42 @@ layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+offset_left = -608.0
+offset_top = -515.0
+offset_right = 928.0
+offset_bottom = 509.0
 grow_horizontal = 2
 grow_vertical = 2
+offset_transform_enabled = true
+offset_transform_scale = Vector2(0.6, 0.6)
+mouse_filter = 2
+texture = ExtResource("26_rqumo")
+stretch_mode = 2
 
 [node name="Label" type="Label" parent="RightBox/Dialogs" unique_id=1372830763]
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
 anchor_bottom = 1.0
+offset_left = -44.0
+offset_top = -77.0
+offset_right = -63.0
+offset_bottom = -116.0
 grow_horizontal = 2
 grow_vertical = 2
+label_settings = SubResource("LabelSettings_niura")
+autowrap_mode = 3
+clip_text = true
 
 [node name="Next" type="Button" parent="RightBox/Dialogs" unique_id=1899931334]
+visible = false
 layout_mode = 0
-offset_right = 8.0
-offset_bottom = 8.0
+offset_left = -68.0
+offset_top = 193.0
+offset_right = 662.0
+offset_bottom = 306.0
+text = "Далее"
+flat = true
 
 [node name="Panel" type="Panel" parent="RightBox" unique_id=291878482]
 layout_mode = 2

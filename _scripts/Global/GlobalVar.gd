@@ -14,5 +14,7 @@ var ItemsData               = load("res://_data/Items.tres").data
 var CharactersData          = load("res://_data/Characters.tres").data
 var HelloDialogData         = load("res://_data/Hello_Dialogs.tres").data
 var ReactionDialogeData     = load("res://_data/Reaction_Dialogs.tres").data
+var ProblemDialogsData		= load("res://_data/Problem_Dialogs.tres").data
+var ResultDialogData		= load("res://_data/Results.tres").data
 
 var CanDropItem: bool = false
