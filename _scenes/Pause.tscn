@@ -1,8 +1,10 @@
 [gd_scene format=3 uid="uid://01l5gw1fk8b"]
 
 [ext_resource type="Script" uid="uid://ddi531dvvk0bj" path="res://_scripts/UI/pause.gd" id="1_rguc8"]
+[ext_resource type="Theme" path="res://_data/UI_Buttons.tres" id="2_ui_buttons"]
 
-[node name="Pause" type="Control" unique_id=1576386091]
+[node name="Pause" type="Control" unique_id=1576386091 groups=["pause_menu"]]
+process_mode = 3
 layout_mode = 3
 anchors_preset = 15
 anchor_right = 1.0
@@ -28,18 +30,29 @@ grow_horizontal = 2
 grow_vertical = 2
 
 [node name="VBoxContainer" type="VBoxContainer" parent="Panel/CenterContainer" unique_id=88828902]
+custom_minimum_size = Vector2(600, 0)
 layout_mode = 2
+theme = ExtResource("2_ui_buttons")
+theme_override_constants/separation = -28
 
 [node name="Resume" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=489598272]
+custom_minimum_size = Vector2(600, 180)
 layout_mode = 2
+theme_type_variation = &"TitleButton"
 text = "Продолжить"
 
 [node name="Settings" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=1866254225]
+custom_minimum_size = Vector2(520, 130)
 layout_mode = 2
+size_flags_horizontal = 4
+theme_type_variation = &"SettingsButton"
 text = "Настройки"
 
 [node name="Exit" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=633373572]
+custom_minimum_size = Vector2(520, 130)
 layout_mode = 2
+size_flags_horizontal = 4
+theme_type_variation = &"ExitButton"
 text = "Выйти"
 
 [connection signal="pressed" from="Panel/CenterContainer/VBoxContainer/Resume" to="." method="_on_resume_pressed"]

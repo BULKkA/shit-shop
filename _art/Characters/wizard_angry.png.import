@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h4l2hflgloey"
-path="res://.godot/imported/wizard_angry.png-5b654153303fcf8c3cc1da706dbd371d.ctex"
+path="res://.godot/imported/wizard_angry.png-4a221f72b4ba7f9873e69b5e23c344a1.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/characters/wizard_angry.png"
-dest_files=["res://.godot/imported/wizard_angry.png-5b654153303fcf8c3cc1da706dbd371d.ctex"]
+source_file="res://_art/Characters/wizard_angry.png"
+dest_files=["res://.godot/imported/wizard_angry.png-4a221f72b4ba7f9873e69b5e23c344a1.ctex"]
 
 [params]
 

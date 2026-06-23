@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://746he8w8n8ml"
-path="res://.godot/imported/Elf_angry.png-a722e31a2e217f66826dbe641a095ea1.ctex"
+path="res://.godot/imported/Elf_angry.png-ff7fb41e87da0e1e126bf65b257736e4.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/characters/Elf_angry.png"
-dest_files=["res://.godot/imported/Elf_angry.png-a722e31a2e217f66826dbe641a095ea1.ctex"]
+source_file="res://_art/Characters/Elf_angry.png"
+dest_files=["res://.godot/imported/Elf_angry.png-ff7fb41e87da0e1e126bf65b257736e4.ctex"]
 
 [params]
 

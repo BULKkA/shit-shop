@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://cx286bc2cm1oc"
-path="res://.godot/imported/Elf_neitral.png-ab6c0439dda7c2073014dec0f1c17f69.ctex"
+uid="uid://dullyxb2j8ww7"
+path="res://.godot/imported/UI_Tabs_Title.png-ae536687f69c3e44be90ef66af54fbc8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/Characters/Elf_neitral.png"
-dest_files=["res://.godot/imported/Elf_neitral.png-ab6c0439dda7c2073014dec0f1c17f69.ctex"]
+source_file="res://_art/UI/UI_Tabs_Title.png"
+dest_files=["res://.godot/imported/UI_Tabs_Title.png-ae536687f69c3e44be90ef66af54fbc8.ctex"]
 
 [params]
 

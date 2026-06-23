@@ -3,32 +3,36 @@
 [ext_resource type="Texture2D" uid="uid://t5ilxxkqd7yj" path="res://_art/Shop.png" id="1_1bg7i"]
 [ext_resource type="Script" uid="uid://5ytf887axx0k" path="res://_scripts/Level/level.gd" id="1_eo4br"]
 [ext_resource type="Script" uid="uid://fdq47m7nwll" path="res://_scripts/Level/character.gd" id="2_ayqgg"]
-[ext_resource type="Texture2D" uid="uid://h3gsf220p5rs" path="res://_art/characters/Guard_angry.png" id="2_w6h55"]
-[ext_resource type="Texture2D" uid="uid://cnil747m377lc" path="res://_art/characters/Guard_neutral.png" id="3_5m4km"]
-[ext_resource type="Texture2D" uid="uid://jl287guwc3iv" path="res://_art/characters/Guard_shocked.png" id="4_b5uqe"]
-[ext_resource type="Texture2D" uid="uid://d0q5af7csbc64" path="res://_art/characters/Guard_smile.png" id="5_ayqgg"]
-[ext_resource type="Texture2D" uid="uid://dmqq8vae1np1d" path="res://_art/characters/elephant_paladin_angry.png" id="6_xvbbh"]
-[ext_resource type="Texture2D" uid="uid://cehx4mfyd0rja" path="res://_art/characters/elephant_paladin_neutral.png" id="7_rqumo"]
-[ext_resource type="Texture2D" uid="uid://c173wvy7w1tua" path="res://_art/characters/elephant_paladin_shocked.png" id="8_eo4br"]
-[ext_resource type="Texture2D" uid="uid://kg5wn0nolyla" path="res://_art/characters/elephant_paladin_smile.png" id="9_niura"]
-[ext_resource type="Texture2D" uid="uid://746he8w8n8ml" path="res://_art/characters/Elf_angry.png" id="10_tvwfo"]
-[ext_resource type="Texture2D" uid="uid://cx286bc2cm1oc" path="res://_art/characters/Elf_neitral.png" id="11_l5d35"]
-[ext_resource type="Texture2D" uid="uid://briuibcxm1eso" path="res://_art/characters/Elf_shocked.png" id="12_ywumr"]
-[ext_resource type="Texture2D" uid="uid://5budlypvv4xu" path="res://_art/characters/Elf_smile.png" id="13_hws5k"]
-[ext_resource type="Texture2D" uid="uid://be7x1facme4bk" path="res://_art/characters/roge_angry.png" id="14_qrvcn"]
-[ext_resource type="Texture2D" uid="uid://pbx0ueh84i1m" path="res://_art/characters/roge_neutral.png" id="15_rsc77"]
-[ext_resource type="Texture2D" uid="uid://bom3lfxlus6y1" path="res://_art/characters/roge_shocked.png" id="16_lm7qc"]
-[ext_resource type="Texture2D" uid="uid://cetng2j8qo05n" path="res://_art/characters/roge_smile.png" id="17_xpmoh"]
-[ext_resource type="Texture2D" uid="uid://h4l2hflgloey" path="res://_art/characters/wizard_angry.png" id="18_ccm4v"]
-[ext_resource type="Texture2D" uid="uid://c427krl0ferow" path="res://_art/characters/wizard_neutral.png" id="19_j33k6"]
-[ext_resource type="Texture2D" uid="uid://buk65hniev16n" path="res://_art/characters/wizard_shocked.png" id="20_0npnv"]
-[ext_resource type="Texture2D" uid="uid://bcvbv88l6g7ge" path="res://_art/characters/wizard_smile.png" id="21_aq6dt"]
+[ext_resource type="Texture2D" uid="uid://h3gsf220p5rs" path="res://_art/Characters/Guard_angry.png" id="2_w6h55"]
+[ext_resource type="Texture2D" uid="uid://cnil747m377lc" path="res://_art/Characters/Guard_neutral.png" id="3_5m4km"]
+[ext_resource type="Texture2D" uid="uid://jl287guwc3iv" path="res://_art/Characters/Guard_shocked.png" id="4_b5uqe"]
+[ext_resource type="Texture2D" uid="uid://d0q5af7csbc64" path="res://_art/Characters/Guard_smile.png" id="5_ayqgg"]
+[ext_resource type="Texture2D" uid="uid://dmqq8vae1np1d" path="res://_art/Characters/elephant_paladin_angry.png" id="6_xvbbh"]
+[ext_resource type="Texture2D" uid="uid://cehx4mfyd0rja" path="res://_art/Characters/elephant_paladin_neutral.png" id="7_rqumo"]
+[ext_resource type="Texture2D" uid="uid://c173wvy7w1tua" path="res://_art/Characters/elephant_paladin_shocked.png" id="8_eo4br"]
+[ext_resource type="Texture2D" uid="uid://kg5wn0nolyla" path="res://_art/Characters/elephant_paladin_smile.png" id="9_niura"]
+[ext_resource type="Texture2D" uid="uid://746he8w8n8ml" path="res://_art/Characters/Elf_angry.png" id="10_tvwfo"]
+[ext_resource type="Texture2D" uid="uid://cx286bc2cm1oc" path="res://_art/Characters/Elf_neitral.png" id="11_l5d35"]
+[ext_resource type="Texture2D" uid="uid://briuibcxm1eso" path="res://_art/Characters/Elf_shocked.png" id="12_ywumr"]
+[ext_resource type="Texture2D" uid="uid://5budlypvv4xu" path="res://_art/Characters/Elf_smile.png" id="13_hws5k"]
+[ext_resource type="Texture2D" uid="uid://be7x1facme4bk" path="res://_art/Characters/roge_angry.png" id="14_qrvcn"]
+[ext_resource type="Texture2D" uid="uid://pbx0ueh84i1m" path="res://_art/Characters/roge_neutral.png" id="15_rsc77"]
+[ext_resource type="Texture2D" uid="uid://bom3lfxlus6y1" path="res://_art/Characters/roge_shocked.png" id="16_lm7qc"]
+[ext_resource type="Texture2D" uid="uid://cetng2j8qo05n" path="res://_art/Characters/roge_smile.png" id="17_xpmoh"]
+[ext_resource type="Texture2D" uid="uid://h4l2hflgloey" path="res://_art/Characters/wizard_angry.png" id="18_ccm4v"]
+[ext_resource type="Texture2D" uid="uid://c427krl0ferow" path="res://_art/Characters/wizard_neutral.png" id="19_j33k6"]
+[ext_resource type="Texture2D" uid="uid://buk65hniev16n" path="res://_art/Characters/wizard_shocked.png" id="20_0npnv"]
+[ext_resource type="Texture2D" uid="uid://bcvbv88l6g7ge" path="res://_art/Characters/wizard_smile.png" id="21_aq6dt"]
 [ext_resource type="Texture2D" uid="uid://cs5mal4dt8n31" path="res://_art/Shop-Up.png" id="23_56o8g"]
 [ext_resource type="Script" uid="uid://c7ordl3nc52hd" path="res://_scripts/Level/item_field.gd" id="24_eo4br"]
 [ext_resource type="Script" uid="uid://0i1oewbpekyv" path="res://_scripts/Level/Generator.gd" id="25_b5uqe"]
 [ext_resource type="Script" uid="uid://bedr5fb2rjd6g" path="res://_scripts/Level/dialogs.gd" id="25_xvbbh"]
 [ext_resource type="Texture2D" uid="uid://c86o7v8y7ixnn" path="res://_art/DIALOG_01.png" id="26_rqumo"]
 [ext_resource type="Script" uid="uid://dt472dychsqgp" path="res://_scripts/Level/Characters_Manager.gd" id="27_xvbbh"]
+[ext_resource type="Shader" uid="uid://djhn5u0bpxr13" path="res://_shaders/fantasy_post_process.gdshader" id="28_post_process"]
+[ext_resource type="FontFile" uid="uid://ddvqgihlmir36" path="res://_data/Cinzel-VariableFont_wght.ttf" id="29_cinzel"]
+
+[sub_resource type="StyleBoxEmpty" id="StyleBoxEmpty_panel"]
 
 [sub_resource type="AtlasTexture" id="AtlasTexture_1ibri"]
 atlas = ExtResource("6_xvbbh")
@@ -276,8 +280,17 @@ animations = [{
 [sub_resource type="Theme" id="Theme_vgr7o"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_niura"]
+font = ExtResource("29_cinzel")
 font_size = 18
 font_color = Color(0.16862746, 0.12941177, 0.09411765, 1)
+
+[sub_resource type="ShaderMaterial" id="ShaderMaterial_post_process"]
+shader = ExtResource("28_post_process")
+shader_parameter/contrast = 1.08
+shader_parameter/saturation = 1.08
+shader_parameter/warmth = 0.045
+shader_parameter/vignette_strength = 0.22
+shader_parameter/grain_strength = 0.012
 
 [node name="Level" type="Control" unique_id=1729900135]
 layout_mode = 3
@@ -307,6 +320,7 @@ mouse_filter = 2
 [node name="Character" type="Panel" parent="CenterBox" unique_id=79660335]
 custom_minimum_size = Vector2(800, 500)
 layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxEmpty_panel")
 script = ExtResource("2_ayqgg")
 
 [node name="AnimatedSprite2D" type="AnimatedSprite2D" parent="CenterBox/Character" unique_id=355020206]
@@ -343,6 +357,7 @@ offset_right = 1755.0
 offset_bottom = 1063.0
 pivot_offset = Vector2(1764, 320)
 theme = SubResource("Theme_vgr7o")
+theme_override_styles/panel = SubResource("StyleBoxEmpty_panel")
 
 [node name="HBoxContainer" type="HBoxContainer" parent="ItemField/Panel" unique_id=1130649199]
 layout_mode = 1
@@ -373,6 +388,7 @@ grow_vertical = 2
 custom_minimum_size = Vector2(700, 300)
 layout_mode = 2
 offset_transform_enabled = true
+theme_override_styles/panel = SubResource("StyleBoxEmpty_panel")
 script = ExtResource("25_xvbbh")
 
 [node name="TextureRect" type="TextureRect" parent="RightBox/Dialogs" unique_id=925566217]
@@ -410,8 +426,8 @@ clip_text = true
 [node name="Next" type="Button" parent="RightBox/Dialogs" unique_id=1899931334]
 visible = false
 layout_mode = 0
-offset_left = -68.0
-offset_top = 193.0
+offset_left = -60.0
+offset_top = 203.0
 offset_right = 662.0
 offset_bottom = 306.0
 text = "Далее"
@@ -419,6 +435,7 @@ flat = true
 
 [node name="Panel" type="Panel" parent="RightBox" unique_id=291878482]
 layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBoxEmpty_panel")
 
 [node name="Scripts" type="Node" parent="." unique_id=741718399]
 
@@ -427,6 +444,16 @@ script = ExtResource("27_xvbbh")
 
 [node name="Generator" type="Node" parent="Scripts" unique_id=1424970831]
 script = ExtResource("25_b5uqe")
+
+[node name="PostProcess" type="ColorRect" parent="." unique_id=699934246]
+material = SubResource("ShaderMaterial_post_process")
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+mouse_filter = 2
 
 [connection signal="pressed" from="RightBox/Dialogs/Next" to="CenterBox/Character" method="_on_next_pressed"]
 [connection signal="pressed" from="RightBox/Dialogs/Next" to="RightBox/Dialogs" method="_on_next_pressed"]

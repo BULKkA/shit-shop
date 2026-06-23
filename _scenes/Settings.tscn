@@ -1,3 +1,116 @@
-[gd_scene format=3 uid="uid://bqadmbet5gal2"]
+[gd_scene load_steps=3 format=3 uid="uid://bqadmbet5gal2"]
 
-[node name="Settings" type="Node2D" unique_id=1530390002]
+[ext_resource type="Script" path="res://_scripts/UI/settings_menu.gd" id="1_settings"]
+[ext_resource type="Theme" path="res://_data/UI_Buttons.tres" id="2_ui_buttons"]
+
+[sub_resource type="StyleBoxFlat" id="StyleBox_panel"]
+bg_color = Color(0.105882, 0.0862745, 0.0705882, 0.96)
+border_width_left = 2
+border_width_top = 2
+border_width_right = 2
+border_width_bottom = 2
+border_color = Color(0.65098, 0.482353, 0.258824, 1)
+corner_radius_top_left = 12
+corner_radius_top_right = 12
+corner_radius_bottom_right = 12
+corner_radius_bottom_left = 12
+
+[node name="SettingsMenu" type="Control"]
+process_mode = 3
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_settings")
+
+[node name="Background" type="ColorRect" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+color = Color(0.025, 0.02, 0.016, 0.88)
+mouse_filter = 0
+
+[node name="CenterContainer" type="CenterContainer" parent="."]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="PanelContainer" type="PanelContainer" parent="CenterContainer"]
+custom_minimum_size = Vector2(560, 0)
+layout_mode = 2
+theme_override_styles/panel = SubResource("StyleBox_panel")
+
+[node name="MarginContainer" type="MarginContainer" parent="CenterContainer/PanelContainer"]
+layout_mode = 2
+theme_override_constants/margin_left = 48
+theme_override_constants/margin_top = 40
+theme_override_constants/margin_right = 48
+theme_override_constants/margin_bottom = 40
+
+[node name="VBoxContainer" type="VBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer"]
+layout_mode = 2
+theme_override_constants/separation = 24
+
+[node name="Title" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_font_sizes/font_size = 36
+text = "Настройки"
+horizontal_alignment = 1
+
+[node name="VolumeRow" type="HBoxContainer" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+layout_mode = 2
+theme_override_constants/separation = 16
+
+[node name="VolumeLabel" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VolumeRow"]
+custom_minimum_size = Vector2(150, 0)
+layout_mode = 2
+text = "Громкость"
+
+[node name="VolumeSlider" type="HSlider" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VolumeRow"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(260, 0)
+layout_mode = 2
+size_flags_horizontal = 3
+max_value = 100.0
+value = 100.0
+step = 1.0
+
+[node name="VolumeValue" type="Label" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VolumeRow"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(55, 0)
+layout_mode = 2
+text = "100%"
+horizontal_alignment = 2
+
+[node name="Fullscreen" type="CheckButton" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Полноэкранный режим"
+
+[node name="VSync" type="CheckButton" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+layout_mode = 2
+text = "Вертикальная синхронизация (VSync)"
+
+[node name="Back" type="Button" parent="CenterContainer/PanelContainer/MarginContainer/VBoxContainer"]
+unique_name_in_owner = true
+custom_minimum_size = Vector2(420, 105)
+layout_mode = 2
+size_flags_horizontal = 4
+theme = ExtResource("2_ui_buttons")
+theme_type_variation = &"ExitButton"
+text = "Назад"
+
+[connection signal="value_changed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VolumeRow/VolumeSlider" to="." method="_on_volume_value_changed"]
+[connection signal="drag_ended" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VolumeRow/VolumeSlider" to="." method="_on_volume_drag_ended"]
+[connection signal="toggled" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Fullscreen" to="." method="_on_fullscreen_toggled"]
+[connection signal="toggled" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/VSync" to="." method="_on_v_sync_toggled"]
+[connection signal="pressed" from="CenterContainer/PanelContainer/MarginContainer/VBoxContainer/Back" to="." method="_on_back_pressed"]
