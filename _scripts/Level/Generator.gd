@@ -5,6 +5,9 @@ var problemStoryList: Array 	= []
 var itemsStoryList: Array 		= []
 
 func _ready() -> void:
+	LoadGameData()
+
+func LoadGameData():
 	var charactersData = GlobalVar.CharactersData
 	var problemData    = GlobalVar.ProblemsData
 	var itemsData      = GlobalVar.ItemsData

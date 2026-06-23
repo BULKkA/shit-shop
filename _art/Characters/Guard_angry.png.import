@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://h3gsf220p5rs"
-path="res://.godot/imported/Guard_angry.png-dfba588d9862e8a7e504abafcaaa6240.ctex"
+path="res://.godot/imported/Guard_angry.png-ad36a30aed47c59ce0498e73179a74f8.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/Characters/Guard_angry.png"
-dest_files=["res://.godot/imported/Guard_angry.png-dfba588d9862e8a7e504abafcaaa6240.ctex"]
+source_file="res://_art/characters/Guard_angry.png"
+dest_files=["res://.godot/imported/Guard_angry.png-ad36a30aed47c59ce0498e73179a74f8.ctex"]
 
 [params]
 

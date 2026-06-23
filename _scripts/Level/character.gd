@@ -17,6 +17,7 @@ func _drop_data(position, data):
 func Start_Dialog(Сharacter_id, Problem_id):
 	character_id = Сharacter_id
 	Animations.play(character_id + "_neutral")
+	Signals.Play_Sound.emit(Sounds.Type.Music, "Theme_" + Сharacter_id)
 
 func SetEmote(emote_id):
 	Animations.play(character_id + "_" + emote_id)

@@ -1,3 +1,47 @@
 [gd_scene format=3 uid="uid://01l5gw1fk8b"]
 
-[node name="Pause" type="Node2D" unique_id=1321580610]
+[ext_resource type="Script" uid="uid://ddi531dvvk0bj" path="res://_scripts/UI/pause.gd" id="1_rguc8"]
+
+[node name="Pause" type="Control" unique_id=1576386091]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_rguc8")
+
+[node name="Panel" type="Panel" parent="." unique_id=1572316682]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="CenterContainer" type="CenterContainer" parent="Panel" unique_id=1308213264]
+layout_mode = 1
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+
+[node name="VBoxContainer" type="VBoxContainer" parent="Panel/CenterContainer" unique_id=88828902]
+layout_mode = 2
+
+[node name="Resume" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=489598272]
+layout_mode = 2
+text = "Продолжить"
+
+[node name="Settings" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=1866254225]
+layout_mode = 2
+text = "Настройки"
+
+[node name="Exit" type="Button" parent="Panel/CenterContainer/VBoxContainer" unique_id=633373572]
+layout_mode = 2
+text = "Выйти"
+
+[connection signal="pressed" from="Panel/CenterContainer/VBoxContainer/Resume" to="." method="_on_resume_pressed"]
+[connection signal="pressed" from="Panel/CenterContainer/VBoxContainer/Settings" to="." method="_on_settings_pressed"]
+[connection signal="pressed" from="Panel/CenterContainer/VBoxContainer/Exit" to="." method="_on_exit_pressed"]

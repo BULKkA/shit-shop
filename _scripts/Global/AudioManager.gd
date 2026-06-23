@@ -5,6 +5,9 @@ const SFX_CHANNELS := 16
 var music_player: AudioStreamPlayer
 var sfx_players: Array[AudioStreamPlayer]
 
+var music_tween: Tween
+var music_fade_time := 0.7
+
 func _ready() -> void:
 	
 	Signals.Play_Sound.connect(Play_Sound)
@@ -23,9 +26,27 @@ func _ready() -> void:
 func play_music(stream: AudioStream):
 	if music_player.stream == stream and music_player.playing:
 		return
+	if music_tween:
+		music_tween.kill()
+	music_tween = create_tween()
+	music_tween.tween_property(
+		music_player,
+		"volume_db",
+		-40.0,
+		music_fade_time
+	)
+	await music_tween.finished
 	music_player.stop()
 	music_player.stream = stream
+	music_player.volume_db = -40.0
 	music_player.play()
+	music_tween = create_tween()
+	music_tween.tween_property(
+		music_player,
+		"volume_db",
+		0.0,
+		music_fade_time
+	)
 
 func stop_music():
 	music_player.stop()

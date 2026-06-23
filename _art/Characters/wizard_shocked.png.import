@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://buk65hniev16n"
-path="res://.godot/imported/wizard_shocked.png-4bf0783d49967d4648f4132c259d525c.ctex"
+path="res://.godot/imported/wizard_shocked.png-3013aebf9917f0a494803aaf5cabfff3.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/Characters/wizard_shocked.png"
-dest_files=["res://.godot/imported/wizard_shocked.png-4bf0783d49967d4648f4132c259d525c.ctex"]
+source_file="res://_art/characters/wizard_shocked.png"
+dest_files=["res://.godot/imported/wizard_shocked.png-3013aebf9917f0a494803aaf5cabfff3.ctex"]
 
 [params]
 

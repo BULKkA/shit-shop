@@ -3,15 +3,15 @@
 importer="texture"
 type="CompressedTexture2D"
 uid="uid://c427krl0ferow"
-path="res://.godot/imported/wizard_neutral.png-f44309e4656f3cf3e1a62779b28fadbb.ctex"
+path="res://.godot/imported/wizard_neutral.png-f7c18695f5ce3dd8fd2267632bfb28e6.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://_art/Characters/wizard_neutral.png"
-dest_files=["res://.godot/imported/wizard_neutral.png-f44309e4656f3cf3e1a62779b28fadbb.ctex"]
+source_file="res://_art/characters/wizard_neutral.png"
+dest_files=["res://.godot/imported/wizard_neutral.png-f7c18695f5ce3dd8fd2267632bfb28e6.ctex"]
 
 [params]
 
