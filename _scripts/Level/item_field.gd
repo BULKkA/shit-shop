@@ -18,5 +18,10 @@ func remove_item(item_id):
 	items_list.erase(item_id)
 
 func LoadItemField(item_list):
+	for item in items_list.values():
+		if is_instance_valid(item):
+			item.queue_free()
+	items_list.clear()
+
 	for item in item_list:
 		add_item(item)

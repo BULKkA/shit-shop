@@ -255,7 +255,7 @@ data = {
           "text": "Это начинает походить на издевательство."
         }
       ],
-      "hero_certificate": [
+      "training_certificate": [
         {
           "emotion": "neutral",
           "text": "Любопытный предмет."
@@ -653,7 +653,7 @@ data = {
           "text": "Я стараюсь не судить поспешно, но это странно."
         }
       ],
-      "hero_certificate": [
+      "training_certificate": [
         {
           "emotion": "smile",
           "text": "Спасибо, это может пригодиться."
@@ -1051,7 +1051,7 @@ data = {
           "text": "Надеюсь, это часть какого-то плана."
         }
       ],
-      "hero_certificate": [
+      "training_certificate": [
         {
           "emotion": "shocked",
           "text": "О! Неожиданно."
@@ -1449,7 +1449,7 @@ data = {
           "text": "Я начинаю сомневаться в этом решении."
         }
       ],
-      "hero_certificate": [
+      "training_certificate": [
         {
           "emotion": "neutral",
           "text": "Любопытно."
@@ -1847,7 +1847,7 @@ data = {
           "text": "Ладно, даже у меня есть стандарты."
         }
       ],
-      "hero_certificate": [
+      "training_certificate": [
         {
           "emotion": "smile",
           "text": "О, мне нравится."

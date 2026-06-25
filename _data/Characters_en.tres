@@ -1,0 +1,30 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = [
+  {
+    "id": "wizard",
+    "name": "Wizard",
+    "description": "A skilled mage with a sharp mind and a sharper ego."
+  },
+  {
+    "id": "elephant_paladin",
+    "name": "Elephant Paladin",
+    "description": "A kind and noble paladin who is always ready to help."
+  },
+  {
+    "id": "guard",
+    "name": "Knight Girl",
+    "description": "A brave young knight who prefers to act first."
+  },
+  {
+    "id": "elf",
+    "name": "Elf Archer",
+    "description": "An experienced scout who trusts patience and observation."
+  },
+  {
+    "id": "roge",
+    "name": "Femboy Rogue",
+    "description": "A charming adventurer with a talent for finding trouble and slipping out of it."
+  }
+]

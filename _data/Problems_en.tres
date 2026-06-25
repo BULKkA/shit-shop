@@ -1,0 +1,30 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = [
+  {
+    "id": "mountain_pass",
+    "name": "Mountain Pass",
+    "description": "Crossing a dangerous mountain route."
+  },
+  {
+    "id": "treasure_hunt",
+    "name": "Treasure Hunt",
+    "description": "Searching for a legendary treasure."
+  },
+  {
+    "id": "village_problem",
+    "name": "Village Trouble",
+    "description": "Villagers need help with a local disaster."
+  },
+  {
+    "id": "magic_experiment",
+    "name": "Magic Experiment",
+    "description": "A dangerous experiment needs an unusual solution."
+  },
+  {
+    "id": "survival",
+    "name": "Survival",
+    "description": "Enduring several days in harsh conditions."
+  }
+]

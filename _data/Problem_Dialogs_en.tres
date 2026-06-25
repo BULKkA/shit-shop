@@ -1,0 +1,265 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = {
+  "wizard": {
+    "mountain_pass": [
+      {
+        "emotion": "neutral",
+        "text": "The mountain pass is iced over and the weather is turning mean. Give me something for warmth, grip, safety, or finding a better route."
+      },
+      {
+        "emotion": "smile",
+        "text": "Wizard needs a strange answer to a very real problem. Give me something for warmth, grip, safety, or finding a better route."
+      }
+    ],
+    "treasure_hunt": [
+      {
+        "emotion": "neutral",
+        "text": "A treasure map points to a place full of locks, traps, and bad decisions. Pick an item that can reveal the cache, test danger, or open the way."
+      },
+      {
+        "emotion": "smile",
+        "text": "Wizard needs a strange answer to a very real problem. Pick an item that can reveal the cache, test danger, or open the way."
+      }
+    ],
+    "village_problem": [
+      {
+        "emotion": "neutral",
+        "text": "A village is dealing with broken tools, missing supplies, and suspicious rumors. I need something that can help investigate, repair, protect, or calm the situation."
+      },
+      {
+        "emotion": "smile",
+        "text": "Wizard needs a strange answer to a very real problem. I need something that can help investigate, repair, protect, or calm the situation."
+      }
+    ],
+    "magic_experiment": [
+      {
+        "emotion": "neutral",
+        "text": "A magic experiment has escaped the neat little box labeled common sense. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      },
+      {
+        "emotion": "smile",
+        "text": "Wizard needs a strange answer to a very real problem. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      }
+    ],
+    "survival": [
+      {
+        "emotion": "neutral",
+        "text": "I need to survive several rough days with poor shelter and worse luck. Find me something for food, water, fire, navigation, or protection."
+      },
+      {
+        "emotion": "smile",
+        "text": "Wizard needs a strange answer to a very real problem. Find me something for food, water, fire, navigation, or protection."
+      }
+    ]
+  },
+  "elephant_paladin": {
+    "mountain_pass": [
+      {
+        "emotion": "neutral",
+        "text": "The mountain pass is iced over and the weather is turning mean. Give me something for warmth, grip, safety, or finding a better route."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elephant Paladin needs a strange answer to a very real problem. Give me something for warmth, grip, safety, or finding a better route."
+      }
+    ],
+    "treasure_hunt": [
+      {
+        "emotion": "neutral",
+        "text": "A treasure map points to a place full of locks, traps, and bad decisions. Pick an item that can reveal the cache, test danger, or open the way."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elephant Paladin needs a strange answer to a very real problem. Pick an item that can reveal the cache, test danger, or open the way."
+      }
+    ],
+    "village_problem": [
+      {
+        "emotion": "neutral",
+        "text": "A village is dealing with broken tools, missing supplies, and suspicious rumors. I need something that can help investigate, repair, protect, or calm the situation."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elephant Paladin needs a strange answer to a very real problem. I need something that can help investigate, repair, protect, or calm the situation."
+      }
+    ],
+    "magic_experiment": [
+      {
+        "emotion": "neutral",
+        "text": "A magic experiment has escaped the neat little box labeled common sense. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elephant Paladin needs a strange answer to a very real problem. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      }
+    ],
+    "survival": [
+      {
+        "emotion": "neutral",
+        "text": "I need to survive several rough days with poor shelter and worse luck. Find me something for food, water, fire, navigation, or protection."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elephant Paladin needs a strange answer to a very real problem. Find me something for food, water, fire, navigation, or protection."
+      }
+    ]
+  },
+  "guard": {
+    "mountain_pass": [
+      {
+        "emotion": "neutral",
+        "text": "The mountain pass is iced over and the weather is turning mean. Give me something for warmth, grip, safety, or finding a better route."
+      },
+      {
+        "emotion": "smile",
+        "text": "Knight Girl needs a strange answer to a very real problem. Give me something for warmth, grip, safety, or finding a better route."
+      }
+    ],
+    "treasure_hunt": [
+      {
+        "emotion": "neutral",
+        "text": "A treasure map points to a place full of locks, traps, and bad decisions. Pick an item that can reveal the cache, test danger, or open the way."
+      },
+      {
+        "emotion": "smile",
+        "text": "Knight Girl needs a strange answer to a very real problem. Pick an item that can reveal the cache, test danger, or open the way."
+      }
+    ],
+    "village_problem": [
+      {
+        "emotion": "neutral",
+        "text": "A village is dealing with broken tools, missing supplies, and suspicious rumors. I need something that can help investigate, repair, protect, or calm the situation."
+      },
+      {
+        "emotion": "smile",
+        "text": "Knight Girl needs a strange answer to a very real problem. I need something that can help investigate, repair, protect, or calm the situation."
+      }
+    ],
+    "magic_experiment": [
+      {
+        "emotion": "neutral",
+        "text": "A magic experiment has escaped the neat little box labeled common sense. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      },
+      {
+        "emotion": "smile",
+        "text": "Knight Girl needs a strange answer to a very real problem. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      }
+    ],
+    "survival": [
+      {
+        "emotion": "neutral",
+        "text": "I need to survive several rough days with poor shelter and worse luck. Find me something for food, water, fire, navigation, or protection."
+      },
+      {
+        "emotion": "smile",
+        "text": "Knight Girl needs a strange answer to a very real problem. Find me something for food, water, fire, navigation, or protection."
+      }
+    ]
+  },
+  "elf": {
+    "mountain_pass": [
+      {
+        "emotion": "neutral",
+        "text": "The mountain pass is iced over and the weather is turning mean. Give me something for warmth, grip, safety, or finding a better route."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elf Archer needs a strange answer to a very real problem. Give me something for warmth, grip, safety, or finding a better route."
+      }
+    ],
+    "treasure_hunt": [
+      {
+        "emotion": "neutral",
+        "text": "A treasure map points to a place full of locks, traps, and bad decisions. Pick an item that can reveal the cache, test danger, or open the way."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elf Archer needs a strange answer to a very real problem. Pick an item that can reveal the cache, test danger, or open the way."
+      }
+    ],
+    "village_problem": [
+      {
+        "emotion": "neutral",
+        "text": "A village is dealing with broken tools, missing supplies, and suspicious rumors. I need something that can help investigate, repair, protect, or calm the situation."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elf Archer needs a strange answer to a very real problem. I need something that can help investigate, repair, protect, or calm the situation."
+      }
+    ],
+    "magic_experiment": [
+      {
+        "emotion": "neutral",
+        "text": "A magic experiment has escaped the neat little box labeled common sense. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elf Archer needs a strange answer to a very real problem. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      }
+    ],
+    "survival": [
+      {
+        "emotion": "neutral",
+        "text": "I need to survive several rough days with poor shelter and worse luck. Find me something for food, water, fire, navigation, or protection."
+      },
+      {
+        "emotion": "smile",
+        "text": "Elf Archer needs a strange answer to a very real problem. Find me something for food, water, fire, navigation, or protection."
+      }
+    ]
+  },
+  "roge": {
+    "mountain_pass": [
+      {
+        "emotion": "neutral",
+        "text": "The mountain pass is iced over and the weather is turning mean. Give me something for warmth, grip, safety, or finding a better route."
+      },
+      {
+        "emotion": "smile",
+        "text": "Femboy Rogue needs a strange answer to a very real problem. Give me something for warmth, grip, safety, or finding a better route."
+      }
+    ],
+    "treasure_hunt": [
+      {
+        "emotion": "neutral",
+        "text": "A treasure map points to a place full of locks, traps, and bad decisions. Pick an item that can reveal the cache, test danger, or open the way."
+      },
+      {
+        "emotion": "smile",
+        "text": "Femboy Rogue needs a strange answer to a very real problem. Pick an item that can reveal the cache, test danger, or open the way."
+      }
+    ],
+    "village_problem": [
+      {
+        "emotion": "neutral",
+        "text": "A village is dealing with broken tools, missing supplies, and suspicious rumors. I need something that can help investigate, repair, protect, or calm the situation."
+      },
+      {
+        "emotion": "smile",
+        "text": "Femboy Rogue needs a strange answer to a very real problem. I need something that can help investigate, repair, protect, or calm the situation."
+      }
+    ],
+    "magic_experiment": [
+      {
+        "emotion": "neutral",
+        "text": "A magic experiment has escaped the neat little box labeled common sense. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      },
+      {
+        "emotion": "smile",
+        "text": "Femboy Rogue needs a strange answer to a very real problem. Choose something that can stabilize, contain, measure, or interrupt the chaos."
+      }
+    ],
+    "survival": [
+      {
+        "emotion": "neutral",
+        "text": "I need to survive several rough days with poor shelter and worse luck. Find me something for food, water, fire, navigation, or protection."
+      },
+      {
+        "emotion": "smile",
+        "text": "Femboy Rogue needs a strange answer to a very real problem. Find me something for food, water, fire, navigation, or protection."
+      }
+    ]
+  }
+}

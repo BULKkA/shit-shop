@@ -1,0 +1,115 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = {
+  "wizard": [
+    {
+      "emotion": "neutral",
+      "text": "Good day. I hope this shop contains something more useful than its reputation."
+    },
+    {
+      "emotion": "smile",
+      "text": "Dust, old wood, and questionable decisions. Perhaps I came to the right place."
+    },
+    {
+      "emotion": "angry",
+      "text": "Let us make this quick. I have a problem, and apparently you have objects."
+    },
+    {
+      "emotion": "neutral",
+      "text": "I need one unusual item for a very controlled experiment."
+    },
+    {
+      "emotion": "shocked",
+      "text": "Remarkable. This shop is still open."
+    }
+  ],
+  "elephant_paladin": [
+    {
+      "emotion": "smile",
+      "text": "Greetings, friend! I need something useful for the road."
+    },
+    {
+      "emotion": "neutral",
+      "text": "A good deed awaits, and I hope your shelves can help."
+    },
+    {
+      "emotion": "smile",
+      "text": "Even the strangest item may serve a noble purpose."
+    },
+    {
+      "emotion": "shocked",
+      "text": "My, your collection has grown since my last visit."
+    },
+    {
+      "emotion": "angry",
+      "text": "I dearly hope today is not another lesson in buying nonsense."
+    }
+  ],
+  "guard": [
+    {
+      "emotion": "smile",
+      "text": "Hi! I urgently need something useful."
+    },
+    {
+      "emotion": "neutral",
+      "text": "I am going to help people. The plan is still catching up."
+    },
+    {
+      "emotion": "smile",
+      "text": "Got anything fit for an adventure?"
+    },
+    {
+      "emotion": "shocked",
+      "text": "Honestly, I arrived before I thought this through."
+    },
+    {
+      "emotion": "angry",
+      "text": "Please tell me the strange stuff is not all you have left."
+    }
+  ],
+  "elf": [
+    {
+      "emotion": "neutral",
+      "text": "Greetings. My path leads through difficult country."
+    },
+    {
+      "emotion": "neutral",
+      "text": "I am looking for something that will help on the road."
+    },
+    {
+      "emotion": "smile",
+      "text": "The wilds are full of surprises. Preparation matters."
+    },
+    {
+      "emotion": "shocked",
+      "text": "People keep the strangest things."
+    },
+    {
+      "emotion": "angry",
+      "text": "I hope this purchase proves more useful than the last one."
+    }
+  ],
+  "roge": [
+    {
+      "emotion": "smile",
+      "text": "Hey there! Nothing missing? Great start."
+    },
+    {
+      "emotion": "smile",
+      "text": "I need something for a completely legal activity."
+    },
+    {
+      "emotion": "shocked",
+      "text": "Oh, you have new stock."
+    },
+    {
+      "emotion": "neutral",
+      "text": "I need a tool for a delicate problem."
+    },
+    {
+      "emotion": "angry",
+      "text": "If you offer me junk again, I might take it personally."
+    }
+  ]
+}

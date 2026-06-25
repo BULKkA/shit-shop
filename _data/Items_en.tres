@@ -1,0 +1,115 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = [
+  {
+    "description": "An old battered brick.",
+    "id": "brick",
+    "name": "Brick"
+  },
+  {
+    "description": "A perfectly ordinary metal spoon.",
+    "id": "spoon",
+    "name": "Spoon"
+  },
+  {
+    "description": "A worn leather ball.",
+    "id": "ball",
+    "name": "Ball"
+  },
+  {
+    "description": "A fragment of a once-decent sword.",
+    "id": "broken_sword",
+    "name": "Broken Sword"
+  },
+  {
+    "description": "A sharp piece of metal of unknown origin.",
+    "id": "metal_shard",
+    "name": "Metal Shard"
+  },
+  {
+    "description": "A potion with an uncertain purpose.",
+    "id": "purple_potion",
+    "name": "Purple Potion"
+  },
+  {
+    "description": "An old magical tome.",
+    "id": "spellbook",
+    "name": "Spellbook"
+  },
+  {
+    "description": "A small bronze bell.",
+    "id": "bell",
+    "name": "Bell"
+  },
+  {
+    "description": "An amulet with a green magical stone.",
+    "id": "amulet",
+    "name": "Amulet"
+  },
+  {
+    "description": "An old scroll of yellowed parchment.",
+    "id": "scroll",
+    "name": "Scroll"
+  },
+  {
+    "description": "A small chest filled with coins.",
+    "id": "treasure_chest",
+    "name": "Treasure Chest"
+  },
+  {
+    "description": "A working compass for travelers.",
+    "id": "compass",
+    "name": "Compass"
+  },
+  {
+    "description": "Suspiciously convincing facial hair.",
+    "id": "fake_mustache",
+    "name": "Fake Mustache"
+  },
+  {
+    "description": "Only the left one. The right one is missing.",
+    "id": "left_boot",
+    "name": "Left Boot"
+  },
+  {
+    "description": "Its purpose is unknown.",
+    "id": "wooden_duck",
+    "name": "Wooden Duck"
+  },
+  {
+    "description": "Proof of a completed three-hour heroism course.",
+    "id": "training_certificate",
+    "name": "Hero Certificate"
+  },
+  {
+    "description": "Roughly knee-high.",
+    "id": "tiny_ladder",
+    "name": "Tiny Ladder"
+  },
+  {
+    "description": "Too large for most doors.",
+    "id": "giant_key",
+    "name": "Giant Key"
+  },
+  {
+    "description": "It begs to be pressed.",
+    "id": "mysterious_button",
+    "name": "Mysterious Button"
+  },
+  {
+    "description": "Nobody knows who it belongs to.",
+    "id": "portrait",
+    "name": "Someone's Portrait"
+  },
+  {
+    "description": "A potential threat to staircases.",
+    "id": "banana",
+    "name": "Banana"
+  },
+  {
+    "description": "Scarier than several monsters.",
+    "id": "tax_document",
+    "name": "Tax Report"
+  }
+]

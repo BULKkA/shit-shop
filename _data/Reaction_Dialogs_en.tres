@@ -1,0 +1,1995 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = {
+  "wizard": {
+    "brick": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "spoon": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "ball": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "broken_sword": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "metal_shard": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "purple_potion": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "spellbook": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "bell": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "amulet": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "scroll": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "treasure_chest": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "compass": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "fake_mustache": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "left_boot": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "wooden_duck": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "training_certificate": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "tiny_ladder": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "giant_key": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "mysterious_button": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "portrait": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "banana": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ],
+    "tax_document": [
+      {
+        "emotion": "neutral",
+        "text": "Curious. I can almost pretend this was intentional."
+      },
+      {
+        "emotion": "shocked",
+        "text": "Not what I expected, which is not always a flaw."
+      },
+      {
+        "emotion": "smile",
+        "text": "There may be hidden potential here."
+      },
+      {
+        "emotion": "angry",
+        "text": "This is beginning to feel personal."
+      }
+    ]
+  },
+  "elephant_paladin": {
+    "brick": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "spoon": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "ball": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "broken_sword": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "metal_shard": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "purple_potion": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "spellbook": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "bell": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "amulet": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "scroll": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "treasure_chest": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "compass": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "fake_mustache": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "left_boot": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "wooden_duck": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "training_certificate": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "tiny_ladder": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "giant_key": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "mysterious_button": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "portrait": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "banana": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ],
+    "tax_document": [
+      {
+        "emotion": "smile",
+        "text": "Thank you. I will try to use this well."
+      },
+      {
+        "emotion": "neutral",
+        "text": "An unusual choice, but I will not dismiss it."
+      },
+      {
+        "emotion": "smile",
+        "text": "If it helps someone, it is worth carrying."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am trying very hard not to judge this too quickly."
+      }
+    ]
+  },
+  "guard": {
+    "brick": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "spoon": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "ball": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "broken_sword": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "metal_shard": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "purple_potion": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "spellbook": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "bell": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "amulet": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "scroll": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "treasure_chest": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "compass": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "fake_mustache": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "left_boot": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "wooden_duck": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "training_certificate": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "tiny_ladder": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "giant_key": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "mysterious_button": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "portrait": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "banana": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ],
+    "tax_document": [
+      {
+        "emotion": "shocked",
+        "text": "All right. I can work with this."
+      },
+      {
+        "emotion": "smile",
+        "text": "That is unexpected, but I have charged into worse ideas."
+      },
+      {
+        "emotion": "neutral",
+        "text": "This might actually help."
+      },
+      {
+        "emotion": "angry",
+        "text": "I really hope this is part of a plan."
+      }
+    ]
+  },
+  "elf": {
+    "brick": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "spoon": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "ball": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "broken_sword": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "metal_shard": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "purple_potion": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "spellbook": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "bell": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "amulet": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "scroll": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "treasure_chest": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "compass": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "fake_mustache": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "left_boot": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "wooden_duck": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "training_certificate": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "tiny_ladder": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "giant_key": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "mysterious_button": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "portrait": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "banana": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ],
+    "tax_document": [
+      {
+        "emotion": "neutral",
+        "text": "Interesting. I will consider the possibilities."
+      },
+      {
+        "emotion": "smile",
+        "text": "This may have a use if handled carefully."
+      },
+      {
+        "emotion": "neutral",
+        "text": "A strange tool, but the trail often rewards patience."
+      },
+      {
+        "emotion": "angry",
+        "text": "I am beginning to question this decision."
+      }
+    ]
+  },
+  "roge": {
+    "brick": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "spoon": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "ball": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "broken_sword": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "metal_shard": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "purple_potion": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "spellbook": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "bell": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "amulet": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "scroll": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "treasure_chest": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "compass": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "fake_mustache": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "left_boot": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "wooden_duck": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "training_certificate": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "tiny_ladder": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "giant_key": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "mysterious_button": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "portrait": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "banana": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ],
+    "tax_document": [
+      {
+        "emotion": "smile",
+        "text": "Oh, I like this."
+      },
+      {
+        "emotion": "shocked",
+        "text": "I can already imagine three plans and two excuses."
+      },
+      {
+        "emotion": "smile",
+        "text": "Strange, but strange is my favorite category."
+      },
+      {
+        "emotion": "angry",
+        "text": "Fine, even I have standards, but I will try it."
+      }
+    ]
+  }
+}

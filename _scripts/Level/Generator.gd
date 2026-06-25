@@ -8,9 +8,14 @@ func _ready() -> void:
 	LoadGameData()
 
 func LoadGameData():
-	var charactersData = GlobalVar.CharactersData
-	var problemData    = GlobalVar.ProblemsData
-	var itemsData      = GlobalVar.ItemsData
+	characterStoryList.clear()
+	problemStoryList.clear()
+	itemsStoryList.clear()
+	GlobalVar.CanDropItem = false
+
+	var charactersData = GlobalVar.CharactersData.duplicate(true)
+	var problemData    = GlobalVar.ProblemsData.duplicate(true)
+	var itemsData      = GlobalVar.ItemsData.duplicate(true)
 	
 	while characterStoryList.size() != 4:
 		var random_character = charactersData[randi_range(0, charactersData.size() - 1)]

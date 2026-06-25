@@ -12,6 +12,8 @@ func _ready() -> void:
 	Signals.Start_Dialog.connect(Start_Dialog) 
 	Signals.Give_Item.connect(Give_Item)
 	Signals.set_next_button_status.connect(set_next_button_status)
+	Settings.language_changed.connect(_on_language_changed)
+	_apply_localization()
 
 var _typing_id := 0
 
@@ -76,3 +78,11 @@ func set_next_button_status(status):
 func Give_Item(Item_id):
 	item_id = Item_id
 	Next_Dialog(character_id, problem_id, Item_id)
+
+
+func _on_language_changed(_language: String) -> void:
+	_apply_localization()
+
+
+func _apply_localization() -> void:
+	NextButton.text = Settings.localize("dialog_next")

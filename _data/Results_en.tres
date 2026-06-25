@@ -1,0 +1,2815 @@
+[gd_resource type="JSON" format=3]
+
+[resource]
+data = {
+  "wizard": {
+    "mountain_pass": {
+      "brick": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the mountain pass with the Brick. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the mountain pass with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the mountain pass with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Broken Sword into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Metal Shard into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the mountain pass with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Spellbook into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Bell into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Amulet into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the mountain pass with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the mountain pass with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Compass into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Fake Mustache into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the mountain pass with the Left Boot. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Wooden Duck into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the mountain pass with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Tiny Ladder into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Giant Key into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the mountain pass with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Someone's Portrait into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the mountain pass with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Tax Report into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "treasure_hunt": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Brick into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Spoon into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Ball into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the treasure hunt with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Metal Shard into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the treasure hunt with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Spellbook into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Bell into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Amulet into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Scroll into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the treasure hunt with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Compass into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Fake Mustache into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Left Boot into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the treasure hunt with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the treasure hunt with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Tiny Ladder into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the treasure hunt with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Mysterious Button into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Someone's Portrait into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Banana into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the treasure hunt with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "village_problem": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Brick into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Spoon into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Ball into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the village trouble with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Metal Shard into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Purple Potion into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Spellbook into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Bell into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Amulet into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the village trouble with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Treasure Chest into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Compass into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Fake Mustache into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Left Boot into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the village trouble with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Hero Certificate into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Tiny Ladder into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the village trouble with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the village trouble with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Someone's Portrait into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Banana into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Tax Report into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "magic_experiment": {
+      "brick": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Brick into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the magic experiment with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Ball into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Broken Sword into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the magic experiment with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the magic experiment with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Spellbook into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Bell into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Amulet into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the magic experiment with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Treasure Chest into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Compass into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the magic experiment with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Left Boot into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Wooden Duck into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the magic experiment with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Tiny Ladder into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Giant Key into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the magic experiment with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the magic experiment with the Someone's Portrait. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Banana into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Tax Report into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "survival": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Brick into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Spoon into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the survival with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Broken Sword into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Metal Shard into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Wizard tried to solve the survival with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Spellbook into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Bell into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Amulet into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Scroll into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Treasure Chest into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Compass into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Fake Mustache into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Left Boot into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Wooden Duck into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Wizard tried to solve the survival with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Tiny Ladder into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Giant Key into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Wizard tried to solve the survival with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Wizard took the Someone's Portrait into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Wizard took the Banana into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Wizard took the Tax Report into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    }
+  },
+  "elephant_paladin": {
+    "mountain_pass": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Brick into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Broken Sword into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Metal Shard into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Spellbook into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Bell into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Amulet into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Compass into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Left Boot. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Wooden Duck into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Tiny Ladder into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Giant Key into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Someone's Portrait into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the mountain pass with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Tax Report into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "treasure_hunt": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Brick into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Spoon into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Ball into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Broken Sword into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Metal Shard into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the treasure hunt with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Spellbook into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Bell into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Amulet into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Scroll into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the treasure hunt with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Compass into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Fake Mustache into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Left Boot into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Wooden Duck into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the treasure hunt with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Tiny Ladder into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the treasure hunt with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Mysterious Button into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Someone's Portrait into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Banana into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the treasure hunt with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "village_problem": {
+      "brick": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Brick into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Spoon into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Ball into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the village trouble with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Metal Shard into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the village trouble with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Spellbook into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Bell into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Amulet into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the village trouble with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Treasure Chest into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Compass into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Fake Mustache into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Left Boot into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the village trouble with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Hero Certificate into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Tiny Ladder into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Giant Key into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the village trouble with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Someone's Portrait into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Banana into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Tax Report into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "magic_experiment": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Brick into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Ball into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Broken Sword into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Spellbook into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Bell into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Amulet. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Treasure Chest into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Compass into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Left Boot into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Wooden Duck into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Tiny Ladder into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Giant Key into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the magic experiment with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Someone's Portrait into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Banana into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Tax Report into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "survival": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Brick into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Spoon into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the survival with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Broken Sword into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Metal Shard into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the survival with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Spellbook into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Bell into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Amulet into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Scroll into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the survival with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Compass into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Fake Mustache into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Left Boot into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elephant Paladin took the Wooden Duck into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elephant Paladin tried to solve the survival with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Tiny Ladder into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Giant Key into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elephant Paladin tried to solve the survival with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Someone's Portrait into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elephant Paladin took the Banana into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elephant Paladin took the Tax Report into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    }
+  },
+  "guard": {
+    "mountain_pass": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Brick into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Spoon into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the mountain pass with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Broken Sword into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Metal Shard into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the mountain pass with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Spellbook into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Bell into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Amulet into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the mountain pass with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the mountain pass with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Compass into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Fake Mustache into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the mountain pass with the Left Boot. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Wooden Duck into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the mountain pass with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Tiny Ladder into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Giant Key into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the mountain pass with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Someone's Portrait into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the mountain pass with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Tax Report into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "treasure_hunt": {
+      "brick": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Brick into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Spoon into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Ball into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the treasure hunt with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Metal Shard into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the treasure hunt with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Spellbook into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Bell into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Amulet into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Scroll into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the treasure hunt with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Compass into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Fake Mustache into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Left Boot into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Wooden Duck into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Hero Certificate into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Tiny Ladder into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the treasure hunt with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Mysterious Button into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Someone's Portrait into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Banana into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the treasure hunt with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "village_problem": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Brick into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Spoon into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Ball into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the village trouble with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Metal Shard into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the village trouble with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the village trouble with the Spellbook. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Bell into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Amulet into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the village trouble with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Treasure Chest into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Compass into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Fake Mustache into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Left Boot into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the village trouble with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Hero Certificate into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Tiny Ladder into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the village trouble with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the village trouble with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Someone's Portrait into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Banana into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Tax Report into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "magic_experiment": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Brick into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the magic experiment with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Ball into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Broken Sword into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the magic experiment with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the magic experiment with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Spellbook into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Bell into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Amulet into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the magic experiment with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Treasure Chest into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Compass into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the magic experiment with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Left Boot into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Wooden Duck into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the magic experiment with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Tiny Ladder into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Giant Key into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the magic experiment with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Someone's Portrait into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the magic experiment with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Tax Report into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "survival": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Brick into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Spoon into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the survival with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Broken Sword into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Metal Shard into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Knight Girl tried to solve the survival with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Spellbook into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Bell into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Amulet into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Scroll into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the survival with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the survival with the Compass. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Fake Mustache into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Left Boot into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Wooden Duck into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Knight Girl tried to solve the survival with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Tiny Ladder into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Giant Key into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Knight Girl tried to solve the survival with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Knight Girl took the Someone's Portrait into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Knight Girl took the Banana into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Knight Girl took the Tax Report into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    }
+  },
+  "elf": {
+    "mountain_pass": {
+      "brick": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Brick into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the mountain pass with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the mountain pass with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Broken Sword into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Metal Shard into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the mountain pass with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Spellbook into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Bell into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Amulet into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the mountain pass with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the mountain pass with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Compass into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Fake Mustache into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Left Boot into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Wooden Duck into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the mountain pass with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Tiny Ladder into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Giant Key into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the mountain pass with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Someone's Portrait into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the mountain pass with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Tax Report into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "treasure_hunt": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Brick into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Spoon into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Ball into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the treasure hunt with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the treasure hunt with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the treasure hunt with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Spellbook into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Bell into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Amulet into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Scroll into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the treasure hunt with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Compass into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Fake Mustache into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Left Boot into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Wooden Duck into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the treasure hunt with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Tiny Ladder into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the treasure hunt with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Mysterious Button into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Someone's Portrait into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Banana into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the treasure hunt with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "village_problem": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Brick into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Spoon into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Ball into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the village trouble with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Metal Shard into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the village trouble with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Spellbook into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Bell into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Amulet into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the village trouble with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Treasure Chest into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Compass into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Fake Mustache into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Left Boot into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the village trouble with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Hero Certificate into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Tiny Ladder into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the village trouble with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Mysterious Button into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Someone's Portrait into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Banana into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Tax Report into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "magic_experiment": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Brick into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the magic experiment with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Ball into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Broken Sword into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the magic experiment with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the magic experiment with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Spellbook into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Bell into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Amulet into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Scroll into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Treasure Chest into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Compass into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the magic experiment with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Left Boot into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Wooden Duck into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the magic experiment with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Tiny Ladder into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Giant Key into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the magic experiment with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Someone's Portrait into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Banana into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Tax Report into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "survival": {
+      "brick": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Elf Archer tried to solve the survival with the Brick. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Spoon into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the survival with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Broken Sword into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Metal Shard into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the survival with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Spellbook into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Bell into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Amulet into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Scroll into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the survival with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Compass into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Fake Mustache into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Left Boot into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Elf Archer took the Wooden Duck into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Elf Archer tried to solve the survival with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Tiny Ladder into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Giant Key into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Elf Archer tried to solve the survival with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Someone's Portrait into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Elf Archer took the Banana into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Elf Archer took the Tax Report into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    }
+  },
+  "roge": {
+    "mountain_pass": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Brick into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Ball into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Broken Sword into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Metal Shard into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Spellbook into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Bell into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Amulet into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Compass into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Fake Mustache into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Left Boot. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Wooden Duck into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Tiny Ladder into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Giant Key into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Someone's Portrait into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the mountain pass with the Banana. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Tax Report into the mountain pass and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "treasure_hunt": {
+      "brick": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Brick into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Spoon into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Ball into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Metal Shard into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Spellbook into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Bell into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Amulet into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Scroll into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Compass into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Fake Mustache into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Left Boot into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Wooden Duck into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Tiny Ladder. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Mysterious Button into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Someone's Portrait into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Banana into the treasure hunt and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the treasure hunt with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "village_problem": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Brick into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Spoon into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Ball into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the village trouble with the Broken Sword. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Metal Shard into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the village trouble with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Spellbook into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the village trouble with the Bell. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Amulet into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the village trouble with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Treasure Chest into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Compass into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Fake Mustache into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Left Boot into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the village trouble with the Wooden Duck. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "training_certificate": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Hero Certificate into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Tiny Ladder into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the village trouble with the Giant Key. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the village trouble with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Someone's Portrait into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Banana into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Tax Report into the village trouble and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    },
+    "magic_experiment": {
+      "brick": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Brick into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Spoon. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "ball": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Ball into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Broken Sword into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Metal Shard. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Spellbook into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Bell into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Amulet into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Scroll. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "treasure_chest": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Treasure Chest into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Compass into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Left Boot into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Wooden Duck into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Tiny Ladder into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Giant Key into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Someone's Portrait into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Banana into the magic experiment and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the magic experiment with the Tax Report. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      }
+    },
+    "survival": {
+      "brick": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Brick into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "spoon": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Spoon into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "ball": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the survival with the Ball. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "broken_sword": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Broken Sword into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "metal_shard": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Metal Shard into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "purple_potion": {
+        "success": false,
+        "emotion": "shocked",
+        "text": "Femboy Rogue tried to solve the survival with the Purple Potion. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "spellbook": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Spellbook into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "bell": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Bell into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "amulet": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Amulet into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "scroll": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Scroll into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "treasure_chest": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the survival with the Treasure Chest. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "compass": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Compass into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "fake_mustache": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the survival with the Fake Mustache. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "left_boot": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Left Boot into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "wooden_duck": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Wooden Duck into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "training_certificate": {
+        "success": false,
+        "emotion": "neutral",
+        "text": "Femboy Rogue tried to solve the survival with the Hero Certificate. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "tiny_ladder": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Tiny Ladder into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "giant_key": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Giant Key into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "mysterious_button": {
+        "success": false,
+        "emotion": "angry",
+        "text": "Femboy Rogue tried to solve the survival with the Mysterious Button. The idea had confidence, charm, and almost no practical value. The problem survived, and the shop gained another example of why receipts should be kept."
+      },
+      "portrait": {
+        "success": true,
+        "emotion": "shocked",
+        "text": "Femboy Rogue took the Someone's Portrait into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "banana": {
+        "success": true,
+        "emotion": "smile",
+        "text": "Femboy Rogue took the Banana into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      },
+      "tax_document": {
+        "success": true,
+        "emotion": "neutral",
+        "text": "Femboy Rogue took the Tax Report into the survival and somehow turned a questionable purchase into a working plan. It was not elegant, but it solved the problem and left everyone with a story worth retelling."
+      }
+    }
+  }
+}

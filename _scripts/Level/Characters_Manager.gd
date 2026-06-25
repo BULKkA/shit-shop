@@ -10,6 +10,7 @@ func _ready() -> void:
 	Signals.NextCharacter.connect(NextCharacter)
 
 func LoadCharacters(Character_list, Problem_list):
+	charecter_index = 0
 	character_list 	= Character_list
 	problem_list   	= Problem_list
 	max_index 		= character_list.size() - 1
